@@ -2,7 +2,9 @@
 #### Restaurant website, 2022
 #### By **Ann Omao**
 ## Description
-This is a website for Seis restaurant. It features its menu, about section, its history and a way to contact the restaurant.
+This is a website for Seis restaurant. It features its menu, about section, its history and a way to contact the restaurant.  
+## View site at 
+https://annomao.github.io/restaurant/
 ## Setup/Installation Requirements
 * Fork the repo
 * clone the repo in your local machine
